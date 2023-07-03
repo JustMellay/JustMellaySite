@@ -9,6 +9,7 @@ IMG {max-width:99%}
 
 a {color:white}
 a:hover {background:white;color:black!important}
-::selection {background:#8a775e;color:#FFF;}
+h2 {text-align:center}
 
+::selection {background:#8a775e;color:#FFF;}
 [id]:target {background:#111;color:gold}
