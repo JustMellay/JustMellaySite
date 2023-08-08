@@ -1,0 +1,1 @@
+document.write('2023 Mellay. All rights reserved. Website created by <a href="https://dc-blog.neocities.org">Digital Cheese</a>.');
