@@ -1,0 +1,1 @@
+document.write('<a href="/index.html">Homepage</a> | <a href="/videos.html">Videos</a>');
